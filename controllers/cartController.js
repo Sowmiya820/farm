@@ -1,5 +1,5 @@
 import userModel from '../models/userModel.js'
-import UserModel from '../models/userModel.js'
+
 
 
 // add items to user cart
